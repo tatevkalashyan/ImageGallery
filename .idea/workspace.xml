@@ -20,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZZAddGZiTXatwuiMMmAX6W8Fnw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Influencer-Networks-App-inner-pages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -65,10 +69,18 @@
       <workItem from="1585114315570" duration="20411000" />
       <workItem from="1585206217462" duration="13160000" />
       <workItem from="1585288838709" duration="16731000" />
+      <workItem from="1585558531614" duration="108000" />
+      <workItem from="1586157040355" duration="4634000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="896" y="276" key="FileChooserDialogImpl" timestamp="1586161676552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="896" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586161676552" />
   </component>
 </project>
